@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Lerrykay 👋
 
-<!--
-**lerrykay/lerrykay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics Engineer & Software Developer passionate about building scalable solutions and exploring embedded systems.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,vercel)](https://skillicons.dev)
+
+## 💻 Technologies
+
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React, Next.js
+- **Backend:** Node.js, Express.js
+- **Database & Services:** MongoDB, Firebase
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel
+
+## 🌱 Currently Exploring
+
+- Backend development with Node.js and TypeScript
+- Embedded Systems
+- Internet of Things (IoT)
+
+## 📫 Connect with Me
+
+- GitHub: [@lerrykay](https://github.com/lerrykay)
